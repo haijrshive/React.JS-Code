@@ -4,7 +4,6 @@ import "./sharedstories.css";
 import storiesService from "services/storiesService";
 import swal from "sweetalert2";
 import { useLocation, useParams, useNavigate, Link } from "react-router-dom";
-import debug from "sabio-debug";
 import addSharedStoriesSchema from "../../schemas/addSharedStoriesSchema";
 import DropZone from "components/filemanager/DropZone";
 import { CKEditor } from "@ckeditor/ckeditor5-react";
