@@ -1,5 +1,4 @@
 import React from "react";
-import debug from "sabio-debug";
 import { Card } from "react-bootstrap";
 import PropTypes from "prop-types";
 import "./storypreview.css";
