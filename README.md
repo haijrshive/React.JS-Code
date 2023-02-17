@@ -1,1 +1,1 @@
-Code snippets from the start of my journey into React. Some is from an MVP so due to the proprietary nature of the code I can only provide snippets.
+Immersed is a cyber security training platform designed to engage all ages while providing educators and administrators robust controls to tailor training content for any user. Some of the code is from an MVP so due to the proprietary nature of the code I can only provide snippets.
